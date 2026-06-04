@@ -30,5 +30,5 @@ GC Content: 55.56%
 
 ## Author
 
-Aditya Kohli
+Aditya Singh Kohli 
 B.Tech Biotechnology
